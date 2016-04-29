@@ -1,7 +1,7 @@
 name: Retail stories
 favicon: null
 layout_spectrum: 0.7788839745335281
-typography_spectrum: 0.17269910033792257
+typography_spectrum: 0.18773
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.976793602341786
   lightness: 0.5961280376650393
-  saturation: 0.22420730744488537
+  saturation: 0.25
   rhythmicContrast: 0.44290238805115223
 purpose: []
